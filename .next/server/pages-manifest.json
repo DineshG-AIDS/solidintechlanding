@@ -1,17 +1,6 @@
 {
-  "/404": "pages/404.html",
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/admin/[[...tina]]": "pages/admin/[[...tina]].html",
-  "/api/sendEmail": "pages/api/sendEmail.js",
-  "/blog": "pages/blog.js",
-  "/contact": "pages/contact.html",
-  "/cookies-policy": "pages/cookies-policy.html",
-  "/": "pages/index.js",
-  "/mobileapp": "pages/mobileapp.html",
-  "/pricing": "pages/pricing.html",
-  "/privacy-policy": "pages/privacy-policy.html",
-  "/servicesap": "pages/servicesap.html",
-  "/webapp": "pages/webapp.html",
-  "/_error": "pages/_error.js"
+  "/_error": "pages/_error.js",
+  "/": "pages/index.js"
 }

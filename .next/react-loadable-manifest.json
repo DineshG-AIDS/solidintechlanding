@@ -1,33 +1,20 @@
 {
   "../components/Navbar.tsx -> ../components/ColorSwitcher": {
-    "id": 57199,
+    "id": "../components/Navbar.tsx -> ../components/ColorSwitcher",
     "files": [
-      "static/chunks/199.fce4f7af2297adeb.js"
+      "static/chunks/components_ColorSwitcher_tsx.js"
     ]
   },
   "../node_modules/@tinacms/toolkit/dist/index.es.js -> webfontloader": {
-    "id": 75933,
+    "id": "../node_modules/@tinacms/toolkit/dist/index.es.js -> webfontloader",
     "files": [
-      "static/chunks/933.fa5f4fd92bba9541.js"
+      "static/chunks/node_modules_webfontloader_webfontloader_js.js"
     ]
   },
-  "../node_modules/@tinacms/toolkit/dist/index.js -> webfontloader": {
-    "id": 75933,
-    "files": []
-  },
   "_app.tsx -> tinacms": {
-    "id": 21118,
+    "id": "_app.tsx -> tinacms",
     "files": [
-      "static/chunks/framework-25a84902f454c528.js",
-      "static/chunks/76b4b2cc-42d73b1b85977ebb.js",
-      "static/chunks/4920a0a5-63d1e05c6439f89b.js",
-      "static/chunks/bee240a3-a775d5ae58e298aa.js",
-      "static/chunks/d3048c20-6bf7fbb9e0614df9.js",
-      "static/chunks/75fc9c18-0406b2450956fe26.js",
-      "static/chunks/b78f9965-f1aa293bf653c671.js",
-      "static/chunks/6f80e9ec-1f6c3d29996a593c.js",
-      "static/chunks/875-ae868437dd574c18.js",
-      "static/chunks/654.f8f0f0ba72eeffb7.js"
+      "static/chunks/node_modules_tinacms_dist_index_es_js.js"
     ]
   }
 }
