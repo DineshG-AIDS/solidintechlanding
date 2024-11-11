@@ -1,5 +1,5 @@
 export const EnvVars = {
-  SITE_NAME: 'Solid In Tech',
+  SITE_NAME: 'Solid InTech',
   OG_IMAGES_URL: '',
   URL: '',
 };

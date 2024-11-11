@@ -16,7 +16,7 @@ export default function Hero() {
     <HeroWrapper>
       <Contents>
         <CustomOverTitle>the coolest,  services you have ever seen</CustomOverTitle>
-        <Heading>Make your life easier with SolidInTech</Heading>
+        <Heading>Make your life easier with Solid InTech</Heading>
         <Description>
          we specialize in creating custom, innovative websites that bring your vision to life. With years of experience in web development, design, and digital strategy, we help businesses build a strong online presence that stands out
         </Description>
